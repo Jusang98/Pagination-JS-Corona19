@@ -1,0 +1,22 @@
+
+.myTable,th,td{
+
+    text-align:right;
+
+    background-color: transparent;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+.namebox{
+
+    text-align:left;
+    line-height: 50px;
+    font-size: 25px;
+
+}
+.tr1{
+
+
+
+}
